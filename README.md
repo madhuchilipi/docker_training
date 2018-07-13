@@ -76,7 +76,7 @@ you will have to start over each time ... Or create your own cluster with
 one of the methods described below.
 
 
-### Using Docker Machine to create your own cluster
+### Using Docker Machine to create your own cluster1
 
 This method requires a bit more work to get started, but you get a permanent
 cluster, with less limitations.
